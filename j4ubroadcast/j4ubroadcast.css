@@ -1,0 +1,14 @@
+.j4u-body {
+    background-color: #ffffff;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.j4u-table {
+    width: 100%;
+    margin-left: auto;
+    border-spacing: 0;
+    border-collapse: collapse;
+    margin-right: auto
+}
